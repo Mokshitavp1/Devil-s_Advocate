@@ -1,0 +1,6 @@
+{
+  "name": "Argue With Me",
+  "description": "An aggressive AI debate sparring partner designed for relentless back-and-forth arguments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
